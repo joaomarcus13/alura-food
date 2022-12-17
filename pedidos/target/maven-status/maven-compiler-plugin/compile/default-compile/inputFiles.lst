@@ -1,0 +1,11 @@
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/model/Status.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/config/Configuracao.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/dto/ItemDoPedidoDto.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/model/Pedido.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/controller/PedidoController.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/model/ItemDoPedido.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/repository/PedidoRepository.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/dto/PedidoDto.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/dto/StatusDto.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/service/PedidoService.java
+/home/jm/alura/alura-food/pedidos/src/main/java/br/com/alurafood/pedidos/PedidosApplication.java
